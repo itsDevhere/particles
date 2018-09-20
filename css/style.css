@@ -5,7 +5,7 @@
 	color: #fff;
 	padding-top: 0;
 	padding-bottom: 0;
-	position: relative; /*Remove 'position' to make particle full screen*/
+	/*Removed 'position' to make particle full screen*/
 	margin:0;
 }
 
